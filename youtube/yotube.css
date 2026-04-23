@@ -1,37 +1,42 @@
 .hardik12{
     width:300px;
     height:300px;
+    margin-bottom: 10px;
 }
 
 .hardiklogo{
     width: 100%;
     height: 50px;
+    border-radius:50px;
 }
 
 .p1{
     font-size: 20px;
     color: black;
-    font-family: Arial;
+    font-family: Roboto;
     font-size: 18px;
     font-weight: bold;
-    width: 240px;
+    width: 250px;
     height: 50px;
     margin-bottom:0;
-
+    margin-top: 0;
 }
 
 .p3,.p5{
     font-size: 20px;
     color: black;
-    font-family: Arial;
-    font-size: 12px;
+    font-family: Roboto;
+    font-size: 15px;
     margin-bottom:0;
+    margin-top:10px;
+    width:250px;
 }
 
 .hardik_logo{
     vertical-align: top;
     display:inline-block;
     width: 50px;
+    margin-right:10px;
 }
 
 .hardik_video-info{
