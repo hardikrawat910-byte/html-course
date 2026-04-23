@@ -13,23 +13,25 @@
 .p1{
     font-size: 20px;
     color: black;
-    font-family: Roboto;
+    font-family: Roboto,Ariel;
     font-size: 18px;
-    font-weight: bold;
+    font-weight: 650;
     width: 250px;
     height: 50px;
     margin-bottom:0;
     margin-top: 0;
+    line-height: 25px; 
 }
 
 .p3,.p5{
     font-size: 20px;
-    color: black;
-    font-family: Roboto;
+    color: rgb(148, 145, 145);
+    font-family: Roboto,Ariel;
     font-size: 15px;
     margin-bottom:0;
     margin-top:10px;
     width:250px;
+    font-weight:500;
 }
 
 .hardik_logo{
@@ -44,7 +46,6 @@
     width: 100px;
     height:50px;
 }
-
 
 .Hardik{
     display: inline-block;
